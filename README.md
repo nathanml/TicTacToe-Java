@@ -1,11 +1,13 @@
 # TicTacToe-Java
 
-TicTacToe game designed using object-oriented principles in Java
+TicTacToe game designed using object-oriented principles in Java. This game can be extended to Order and Chaos with up 
+to a 6x6 board.
 
 ## To compile and run this project, run the following command
-
+```
 javac Main.java
 java Main
+```
 
 ## What I learned
 1. Object-oriented principles
