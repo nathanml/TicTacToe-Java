@@ -1,12 +1,20 @@
 # TicTacToe-Java
+
 TicTacToe game designed using object-oriented principles in Java
 
-To compile and run this project, run the following command
+## To compile and run this project, run the following command
 
 javac Main.java
 java Main
 
-This project contains the following class hierarchy:
+## What I learned
+1. Object-oriented principles
+2. Java developing
+3. Inheritance
+4. Polymorphism
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## This project contains the following class hierarchy:
 
 The Playable Interface: This holds methods shared by all games that can be played
 
